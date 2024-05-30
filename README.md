@@ -1,4 +1,4 @@
-# Portfolio de fotografo
+# Portfolio de fotógrafo
 
 Um portfolio meramente ilustrativo, primeiro projeto.
 
